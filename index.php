@@ -6,6 +6,8 @@
  *
  */
 
+include_once '../lib/config.php';
+include_once '../lib/utils.php';
 include_once '../lib/shared.php';
 include_once '../lib/file.php';
 include_once '../lib/file-updates.php';
